@@ -17,15 +17,14 @@ En esta entrega, crearemos un servidor utilizando Express.js para proporcionar s
 
 - Mostrar la lista de tareas: Crearemos una ruta y un controlador para obtener y mostrar la lista completa de tareas a los usuarios.
 
-⭐ Nivel 1
+⭐ Nivel 1  
 Documenta y adjunta las verificaciones con una plataforma como Postman o Insomnia a tu proyecto.
 
-⭐⭐ Nivel 2
-Incluye un middleware que añada la cabecera Cache-control: no-cache. Habilita CORS (Cross-Origin Resource Sharing) en las respuestas, ya sea mediante Express o mediante otro middleware.
-
+⭐⭐ Nivel 2  
+Incluye un middleware que añada la cabecera Cache-control: no-cache. Habilita CORS (Cross-Origin Resource Sharing) en las respuestas, ya sea mediante Express o mediante otro middleware.  
 Añade un middleware que devuelva un HTTP Status 401 - Unauthorized si la cabecera de la petición no contiene autenticación básica (usuario/contraseña).
 
-⭐⭐⭐ Nivel 3
+⭐⭐⭐ Nivel 3  
 Añade pruebas para verificar el correcto funcionamiento de cada uno.
 
 > [!TIP]
