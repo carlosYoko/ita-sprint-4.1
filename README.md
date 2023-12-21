@@ -38,7 +38,7 @@ Para clonar el repositorio e instalar las dependencias necesarias, usa los sigui
 
 ```bash
 git clone https://github.com/carlosYoko/ita-sprint-4.1.git
-cd ita-sprint-3.1
+cd ita-sprint-4.1
 npm install
 ```
 
