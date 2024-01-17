@@ -30,8 +30,6 @@ Añade pruebas para verificar el correcto funcionamiento de cada uno.
 > [!TIP]
 > En el directorio ./postman se incluye el archivo con la coleccion de solicitudes HTTP.
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
-
 ## Instalación
 
 Para clonar el repositorio e instalar las dependencias necesarias, usa los siguientes comandos:
@@ -71,3 +69,5 @@ npm run test
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT - consulta el archivo LICENSE.md para más detalles.
+
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
